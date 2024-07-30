@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.7.0",
-    "@astrojs/react": "^3.6.0",
+    "@astrojs/react": "^3.6.1",
     "astro": "^4.5.16",
     "clsx": "^2.1.1",
     "react": "^18.3.1",
